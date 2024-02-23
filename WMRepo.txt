@@ -2,4 +2,4 @@ Issue: Solution
 SLED: Check config
 Posting period: MMPV, MMRV
 Unable to post GR: Check Delivery for incompleteness
-Erzor during search for WM movement type (654 1L )  : Please check 654 movement type is created in WM , if not please create same in WM.
+Erzor during search for WM movement type (654 1L )  : Response from Github : Please check 654 movement type is created in WM , if not please create same in WM.
