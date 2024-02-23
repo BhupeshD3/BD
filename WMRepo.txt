@@ -3,3 +3,4 @@ SLED: Check config
 Posting period: MMPV, MMRV
 Unable to post GR: Check Delivery for incompleteness
 Erzor during search for WM movement type (654 1L )  : Response from Github : Please check 654 movement type is created in WM , if not please create same in WM.
+Document does not contain any items: I could see the system proposed items from PO to MIGO and seems you are trying to post without flagging item OK check box in item level. Kindly flag the item OK check box and post the document.
