@@ -4,5 +4,4 @@ Posting period: MMPV, MMRV
 Unable to post GR: Check Delivery for incompleteness
 Erzor during search for WM movement type (654 1L )  : Response from Github : Please check 654 movement type is created in WM , if not please create same in WM.
 Document does not contain any items: I could see the system proposed items from PO to MIGO and seems you are trying to post without flagging item OK check box in item level. Kindly flag the item OK check box and post the document.
-Deficit of PU IR quantity : This error can be resolved if you follow below steps. Cancel IR document with MR8M Transaction Code.
-Cancel GR document with MIGO-Cancellation or MBST Transaction Code.
+Deficit of PU IR quantity : The error message will be given by the system when user tries to cancel the material document without cancelling the IR document when GR Based IV is activated in PO. This error can be resolved if you follow below steps. Cancel IR document with MR8M Transaction Code. Cancel GR document with MIGO-Cancellation or MBST Transaction Code.
